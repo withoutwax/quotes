@@ -718,7 +718,7 @@
                                     <action selector="quit:" target="XfG-lQ-9wD" id="bXz-HP-7sK"/>
                                 </connections>
                             </button>
-                            <textField verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="w4k-PA-z8u">
+                            <textField horizontalHuggingPriority="249" verticalHuggingPriority="750" horizontalCompressionResistancePriority="250" misplaced="YES" translatesAutoresizingMaskIntoConstraints="NO" id="w4k-PA-z8u">
                                 <rect key="frame" x="97" y="127" width="290" height="17"/>
                                 <textFieldCell key="cell" selectable="YES" alignment="center" title="Multiline Label" drawsBackground="YES" id="rGv-Rv-24F">
                                     <font key="font" metaFont="system"/>
